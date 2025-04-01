@@ -1,0 +1,11 @@
+{
+  "preset": "psr12",
+  "rules": {
+    "line_ending": true,
+    "no_extra_blank_lines": true,
+    "blank_line_between_import_groups": true
+  },
+  "exclude": [
+    "vendor"
+  ]
+}
