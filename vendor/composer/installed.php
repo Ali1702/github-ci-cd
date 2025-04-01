@@ -3,7 +3,7 @@
         'name' => 'ali/hello-scenario',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'a3be2d816bf27cc1c1206cf97e287b919da466d0',
+        'reference' => '793160eba964ed901c480943b5b295ac378f328d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ali/hello-scenario' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'a3be2d816bf27cc1c1206cf97e287b919da466d0',
+            'reference' => '793160eba964ed901c480943b5b295ac378f328d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
