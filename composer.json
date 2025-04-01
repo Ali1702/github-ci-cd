@@ -1,0 +1,15 @@
+{
+    "name": "ali/hello-scenario",
+    "autoload": {
+        "psr-4": {
+            "Ali\\HelloScenario\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandra Lazarova",
+            "email": "aleksandra.g.lazarova.2020@elsys-bg.org"
+        }
+    ],
+    "require": {}
+}
