@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Ali\\HelloScenario\\": "src/"
-        }
+        },
+        "files": [
+            "src/greetings.php"
+        ]
     },
     "authors": [
         {
@@ -11,5 +14,9 @@
             "email": "aleksandra.g.lazarova.2020@elsys-bg.org"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^12.0",
+        "laravel/pint": "^1.21",
+        "rector/rector": "^2.0"
+    }
 }

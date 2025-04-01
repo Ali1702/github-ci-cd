@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SayHelloTest::testNormalName":8,"SayHelloTest::testEmptyName":8,"SayHelloTest::testNameWithSpaces":8,"SayHelloTest::testNameWithSpecialCharacters":8},"times":{"SayHelloTest::testNormalName":0.019,"SayHelloTest::testEmptyName":0,"SayHelloTest::testNameWithSpaces":0.001,"SayHelloTest::testNameWithSpecialCharacters":0.001}}
